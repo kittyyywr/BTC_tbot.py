@@ -1,1 +1,1 @@
-# BTC_tbot.py
+#  telegram bot by @kittyyywr
